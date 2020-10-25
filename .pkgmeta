@@ -1,0 +1,12 @@
+package-as: InstantLoot
+
+ignore:
+  - .github
+  - .gitattributes
+  - .gitignore
+  - .luacheckrc
+  - .pkgmeta
+  - .pkgmeta-classic
+  - CHANGELOG.md
+  - LICENSE.txt
+  - README.md
