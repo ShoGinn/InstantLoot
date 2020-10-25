@@ -1,0 +1,6 @@
+## Interface: 90001
+## Author: ShoGinn
+## Version: 1.0.0
+## Title: |cffff0000Instant|rLoot
+## Notes: Makes the loot frame instant
+InstantLoot.lua
