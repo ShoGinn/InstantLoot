@@ -1,0 +1,15 @@
+h2. InstantLoot
+
+Simple World of Warcraft Addon to enable instant looting when AutoLoot is enabled
+
+The idea for this came from other addons like Faster Loot but because of their slow development updates I decided to manage it!
+
+h2. Features
+
+When AutoLoot is enabled through the Blizzard Default UI, upon looting the loot window will not be visible in most cases. 
+
+Great for farming etc.
+
+h2. License
+
+InstantLoot is licensed under the GNU General Public License version 3.
